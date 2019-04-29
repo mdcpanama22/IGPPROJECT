@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - EnemeyBarrier
+  - bullet
+  - bottom_left_barrier
+  - bottom_right_barrier
+  - mid_left_barrier
+  - mid_top
+  - mid_mid
+  - mid_mid_top
+  - mid_right
+  - right_mid
+  - right_top
+  - mid_mid_mid
+  - Base
+  - Head
+  - Crab
+  - Heads
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floor
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
